@@ -7,6 +7,7 @@ C:\Users\hemaw\eclipse-workspace\OpenCart\src\test\java\testBase\BaseClass.java
 C:\Users\hemaw\eclipse-workspace\OpenCart\src\test\java\testCases\TC001_AccountRegistrationTest.java
 C:\Users\hemaw\eclipse-workspace\OpenCart\src\test\java\testCases\TC002_LoginTest.java
 C:\Users\hemaw\eclipse-workspace\OpenCart\src\test\java\testCases\TC003_LoginDDTest.java
+C:\Users\hemaw\eclipse-workspace\OpenCart\src\test\java\testCases\TC004_SearchTest.java
 C:\Users\hemaw\eclipse-workspace\OpenCart\src\test\java\utilities\DataProviders.java
 C:\Users\hemaw\eclipse-workspace\OpenCart\src\test\java\utilities\ExcelUtility.java
 C:\Users\hemaw\eclipse-workspace\OpenCart\src\test\java\utilities\ExtentReportManager.java
