@@ -1,0 +1,6 @@
+2025-07-18 06:00:51 INFO  TC001_AccountRegistrationTest:25 - **Staring TC001_AccountRegistrationTest*****
+2025-07-18 06:00:52 INFO  TC001_AccountRegistrationTest:33 - ***Clicked on my Account***
+2025-07-18 06:00:52 INFO  TC001_AccountRegistrationTest:36 - ***Clicked on my Register***
+2025-07-18 06:00:52 INFO  TC001_AccountRegistrationTest:41 - **Providing coustmer details**
+2025-07-18 06:00:54 INFO  TC001_AccountRegistrationTest:54 - **Validating Expected message **
+2025-07-18 06:00:54 INFO  TC001_AccountRegistrationTest:68 - **Finished TC001_AccountRegistrationTest*****
